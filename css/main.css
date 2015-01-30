@@ -1,0 +1,44 @@
+body {
+	font-family: Kalimati, Verdana, sans-serif;
+}
+.header {
+	margin-top: 25px;
+}
+h1 {
+	text-align: center;
+	color: #666666;
+	font-size: 48px;
+}
+h2 {
+	color: #F07C17;
+    font-size: 24px;
+}
+.box {
+	height: 223px;
+	width: 375px;
+	border: #CCCCCC solid 1px;
+	padding-left: 30px;
+	padding-top: 8px;
+}
+.picture {
+	margin-right: 32px;
+	margin-bottom: 30px;
+	margin-top: 20px;
+    max-width: 375px;
+    max-height: 375px;
+}
+.features {
+	margin-top: 0px;
+}
+p {
+	line-height: 1.9;
+    font-size: 16px;
+    padding-top: 16px;
+}
+ul {
+   padding-top: 20px;
+}
+li {
+	line-height: 2;
+    font-size: 16px;
+}
